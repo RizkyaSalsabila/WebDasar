@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+h2, h3 {
+    color: #00a2c6;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 5px;
+    color: grey;
+    background-color: black;
+    size: 12px;
+    text-align: center;
+}
